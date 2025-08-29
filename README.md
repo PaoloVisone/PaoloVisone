@@ -31,5 +31,5 @@ Mi piace costruire applicazioni moderne, scalabili e intuitive, sempre alla rice
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ## 📊 GitHub Stats  
-![Paolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaoloVisone&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloVisone&layout=compact&theme=radical)
+![Paolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaoloVisone&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloVisone&layout=compact&theme=tokyonight)
